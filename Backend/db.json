@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "firstName": "Vishal",
+      "lastName": "kr",
+      "numberCode": "+91",
+      "number": "9470502525",
+      "email": "Vkvishalkr29@gmail.com",
+      "designation": "react developer",
+      "companyName": "test yantra",
+      "linkedin": "vishalvk29@gmail",
+      "github": "imvishalvk",
+      "profileImage": "https://scontent.fblr21-1.fna.fbcdn.net/v/t1.6435-1/71797980_1336385473205880_4865371899602927616_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=XVW1fM5UY5UQ7kNvwEnir2D&_nc_oc=Adk-yuMfy1DwLGiK9jkhZYjlhtYrfC-sJsdLTbHazYWLN2OXpUN5tIx2pQAfYMMyPkU&_nc_zt=24&_nc_ht=scontent.fblr21-1.fna&_nc_gid=CmBM0UzyPZ7cU5-dewexUg&oh=00_AfneWteyPfpo2vypb_-UoEd9hKFR-DxLXdOIBzH7QhVJZg&oe=69746493",
+      "cityName": "jsr",
+      "state": "Jharkhand",
+      "zip": "831001",
+      "id": "c7d4"
+    },
+    {
+      "id": "6b0d",
+      "firstName": "Ajay",
+      "lastName": "kr",
+      "numberCode": "",
+      "number": "98763567672",
+      "email": "ajay@mail.com",
+      "designation": "techie",
+      "companyName": "tcs",
+      "linkedin": "ajay123",
+      "github": "ajaykr",
+      "profileImage": "https://t3.ftcdn.net/jpg/07/24/59/76/360_F_724597608_pmo5BsVumFcFyHJKlASG2Y2KpkkfiYUU.jpg",
+      "cityName": "jsr",
+      "state": "",
+      "zip": ""
+    },
+    {
+      "id": "422a",
+      "firstName": "",
+      "lastName": "",
+      "numberCode": "",
+      "number": "",
+      "email": "",
+      "designation": "",
+      "companyName": "",
+      "linkedin": "",
+      "github": "",
+      "profileImage": "https://static.vecteezy.com/system/resources/thumbnails/032/176/191/small/business-avatar-profile-black-icon-man-of-user-symbol-in-trendy-flat-style-isolated-on-male-profile-people-diverse-face-for-social-network-or-web-vector.jpg",
+      "cityName": "",
+      "state": "",
+      "zip": ""
+    }
+  ]
+}
