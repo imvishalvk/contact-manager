@@ -17,7 +17,7 @@ function EditContact() {
         companyName: "",
         linkedin: "",
         github: "",
-        profileImage: "",
+        profileImage: "" || "https://static.vecteezy.com/system/resources/thumbnails/032/176/191/small/business-avatar-profile-black-icon-man-of-user-symbol-in-trendy-flat-style-isolated-on-male-profile-people-diverse-face-for-social-network-or-web-vector.jpg",
         cityName: "",
         state: "",
         zip: ""
@@ -50,7 +50,7 @@ function EditContact() {
     };
     useEffect(() => {
         fetchContact();
-    }, []);
+    },[]);
     const handleSubmit = async (e) => {
         e.preventDefault();
         await axiosInstance.put(`/contacts/${contactId}`, contacts);

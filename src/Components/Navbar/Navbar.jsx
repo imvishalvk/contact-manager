@@ -4,7 +4,7 @@ function Navbar() {
     <>
         <div className="navbar mb-5">
             <div className="container">
-                <Link to={"/"} className="navbar-brand py-2"> <i className="fa fa-phone"></i> Contact Manager</Link>
+                <Link to={"/"} className="navbar-brand py-2 "> <i className="fa fa-phone"></i> Contact Manager</Link>
             </div>
 
         </div>
